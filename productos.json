@@ -1,0 +1,86 @@
+﻿[
+    {
+        "sku": "bandejas",
+        "name": "Bandejas",
+        "price": "89",
+        "offer": "0.10",
+        "image": "bandejas.jpg"
+    },
+    {
+        "sku": "olla",
+        "name": "Olla metalica negra",
+        "price": "90",
+        "offer": "0.50",
+        "image": "olla.jpg"
+    },
+    {
+        "sku": "sarten",
+        "name": "Sarten Negra",
+        "price": "75",
+        "offer": "0.50",
+        "image": "sarten.jpg"
+    },
+    {
+        "sku": "cuchillos",
+        "name": "Cuchillos de Cocina",
+        "price": "66",
+        "offer": "0.50",
+        "image": "cuchillos.jpg"
+    },
+    {
+        "sku": "tablas",
+        "name": "Tablas de cortar de Madera",
+        "price": "24.90",
+        "offer": "0.50",
+        "image": "tablas.webp"
+    },
+    {
+        "sku": "Batidoras de mano",
+        "name": "Batidora de mano",
+        "price": "79",
+        "offer": "0.10",
+        "image": "Batidoras de mano.webp"
+    },
+    {
+        "sku": "exprimidor",
+        "name": "Exprimidor Citrico",
+        "price": "89",
+        "offer": "0.42",
+        "image": "exprimidor.webp"
+    },
+    {
+        "sku": "hervidor",
+        "name": "Hervidor Electrico",
+        "price": "79",
+        "offer": "0.22",
+        "image": "hervidor.webp"
+    },
+    {
+        "sku": "tostadora",
+        "name": "Tostadora",
+        "price": "200",
+        "offer": "0.10",
+        "image": "tostadora.jpg"
+    },
+    {
+        "sku": "cafetera",
+        "name": "Cafetera automática",
+        "price": "200",
+        "offer": "0.10",
+        "image": "cafetera.jpg"
+    },
+    {
+        "sku": "licuadora",
+        "name": "Licuadora Oster con vaso de vidrio y control de perilla",
+        "price": "219",
+        "offer": "0.25",
+        "image": "licuadora.jpg"
+    },
+    {
+        "sku": "procesador",
+        "name": "Procesador de alimentos",
+        "price": "499",
+        "offer": "0.40",
+        "image": "procesador.jpg"
+    }
+]
